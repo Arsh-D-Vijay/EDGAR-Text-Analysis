@@ -3,6 +3,7 @@ This project is the text analysis of EDGAR financial report dataset availabled o
 Here I have performed text analysis on specific section (“Management's Discussion and Analysis”, 
 “Quantitative and Qualitative Disclosures about Market Risk”, and “Risk Factors”) of EDGAR report available at web.
 Then for these section I have found the following features:
+
 1: Positive score, negative score, polarity score
 2: Average Sentence Length, percentage of complex words, fog index
 4: Complex word count
