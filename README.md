@@ -1,5 +1,5 @@
 # EDGAR-Text-Analysis
-This project is the text analysis of EDGAR financial report dataset availabled online.
+This project is the text analysis of EDGAR financial report dataset available online.
 Here I have performed text analysis on specific section (“Management's Discussion and Analysis”, 
 “Quantitative and Qualitative Disclosures about Market Risk”, and “Risk Factors”) of EDGAR report available at web.
 Then for these section I have found the following features:
@@ -22,4 +22,4 @@ Then for these section I have found the following features:
 
 10: Constraining words whole report
 
-for the purpose of extraction specific sections from whole report, I have used Regular Expression (REGEX).
+for the purpose of extraction specific sections from whole report, I have used Regular Expression (REGEX) module.
